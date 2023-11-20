@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (4TCP(client).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  4TCP(client).cpp
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\Lab4\4TCP(client)\4TCP(client).cpp(51,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  4TCP(client).vcxproj -> C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\Lab4\x64\Debug\4TCP(client1).exe
