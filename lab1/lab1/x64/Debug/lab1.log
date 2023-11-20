@@ -1,0 +1,49 @@
+﻿  lab1.cpp
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(17,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(17,10): warning C4313: 'printf': '%X' in format string conflicts with argument 2 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(17,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(17,10): warning C4313: 'printf': '%X' in format string conflicts with argument 3 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(17,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 4 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(17,10): warning C4313: 'printf': '%X' in format string conflicts with argument 4 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(21,50): error C2664: 'int atoi(const char *)': cannot convert argument 1 from 'LPTSTR' to 'const char *'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(21,49): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(451,62): message : see declaration of 'atoi'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'LPTSTR'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): message : consider using '%ls' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): message : consider using '%lls' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): message : consider using '%Ls' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): message : consider using '%ws' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 4 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(22,10): warning C4313: 'printf': '%X' in format string conflicts with argument 4 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(32,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(32,10): warning C4313: 'printf': '%X' in format string conflicts with argument 2 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(32,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(32,10): warning C4313: 'printf': '%X' in format string conflicts with argument 3 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(32,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 4 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(32,10): warning C4313: 'printf': '%X' in format string conflicts with argument 4 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(41,32): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(41,32): warning C4313: 'printf': '%X' in format string conflicts with argument 2 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPTSTR'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): message : consider using '%ls' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): message : consider using '%lls' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): message : consider using '%Ls' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): message : consider using '%ws' in the format string
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(46,21): warning C4313: 'sprintf_s': '%d' in format string conflicts with argument 2 of type 'HANDLE'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(47,7): error C2664: 'BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)': cannot convert argument 2 from 'char [255]' to 'LPWSTR'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(47,40): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(377,1): message : see declaration of 'CreateProcessW'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(72,39): error C2440: 'initializing': cannot convert from 'const char [16]' to 'WCHAR [255]'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1.cpp(72,19): message : The type of the string literal is not compatible with the type of the array
+  lab1_singlerun.cpp
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(13,52): error C2664: 'HANDLE CreateMutexW(LPSECURITY_ATTRIBUTES,BOOL,LPCWSTR)': cannot convert argument 3 from 'const char [16]' to 'LPCWSTR'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(13,43): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\synchapi.h(432,1): message : see declaration of 'CreateMutexW'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(22,64): error C2664: 'HANDLE CreateWaitableTimerW(LPSECURITY_ATTRIBUTES,BOOL,LPCWSTR)': cannot convert argument 3 from 'const char [11]' to 'LPCWSTR'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(22,52): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\synchapi.h(818,1): message : see declaration of 'CreateWaitableTimerW'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(34,6): error C2664: 'BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)': cannot convert argument 2 from 'char [255]' to 'LPWSTR'
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab1\lab1\lab1_singlerun.cpp(34,49): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(377,1): message : see declaration of 'CreateProcessW'
+  Generating Code...
