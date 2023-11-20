@@ -1,0 +1,3 @@
+﻿  L3-server-client.cpp
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab3_3\Writer\L3-server-client.cpp(12,84): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Writer.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab3_3\x64\Debug\Writer.exe
