@@ -1,0 +1,3 @@
+﻿  task1-2.cpp
+C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab3\task1-2\task1-2.cpp(15,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  task1-2.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\7 семестр\КМтАПД\computer-networks\lab3\x64\Debug\task1-2.exe
